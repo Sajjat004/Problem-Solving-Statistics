@@ -1,6 +1,6 @@
 # Problem-Solving-Statistics
 
-**Total Problems solved**: `2597`  ( *Last Updated: 20 September, 2022* ) <br>
+**Total Problems solved**: `2722`  ( *Last Updated: 20 September, 2022* ) <br>
 **Full Statistics**:
 
 | OJ Names         | No. of problems Solved  | Username         |
