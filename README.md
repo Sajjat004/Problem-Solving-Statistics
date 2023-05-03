@@ -1,19 +1,19 @@
 # Problem-Solving-Statistics
 
-**Total Problems solved**: `2965`  ( *Last Updated: 30 March, 2023* ) <br>
+**Total Problems solved**: `3028`  ( *Last Updated: 3 April, 2023* ) <br>
 **Full Statistics**:
 
 | OJ Names         | No. of problems Solved  | Username         |
 |:----------------:|:-----------------------:|:----------------:|
-|`Codeforces`|1505|[Sajjat004](https://codeforces.com/profile/Sajjat004)|
-|`Toph`|150|[Sajjat004](https://toph.co/u/Sajjat004)|
-|`Codechef`|272|[sajjat004](https://www.codechef.com/users/sajjat004)|
+|`Codeforces`|1556|[Sajjat004](https://codeforces.com/profile/Sajjat004)|
+|`LeetCode`|282|[Sajjat004](https://leetcode.com/Sajjat004/)|
+|`Codechef`|275|[sajjat004](https://www.codechef.com/users/sajjat004)|
 |`AtCoder`|225|[Sajjat004](https://atcoder.jp/users/Sajjat004)|
-|`Hackerearth`|32|[Sajjat004](https://www.hackerearth.com/@Sajjat004)|
-|`UVA`|106|[Sajjat004](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)|
-|`LeetCode`|273|[Sajjat004](https://leetcode.com/Sajjat004/)|
-|`Spoj`|60|[Sajjat004](https://www.spoj.com/users/sajjat004/)|
-|`LightOJ`|122|[sajjat004](https://lightoj.com/user/sajjat004)|
+|`Toph`|150|[Sajjat004](https://toph.co/u/Sajjat004)|
 |`CSES`|125|[Sajjat004](https://cses.fi/user/62271)|
+|`LightOJ`|122|[sajjat004](https://lightoj.com/user/sajjat004)|
+|`UVA`|106|[Sajjat004](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)|
 |`Hackerrank`|63|[Sajjat004](https://www.hackerrank.com/Sajjat004)|
+|`Spoj`|60|[Sajjat004](https://www.spoj.com/users/sajjat004/)|
+|`Hackerearth`|32|[Sajjat004](https://www.hackerearth.com/@Sajjat004)|
 |`GeeksfoGeeks`|32|[sajjat004](https://auth.geeksforgeeks.org/user/sajjat004/practice)|
