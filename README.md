@@ -1,13 +1,13 @@
 # Problem-Solving-Statistics
 
-**Total Problems solved**: `3000+`  ( *Last Updated: 20 October, 2023* ) <br>
+**Total Problems solved**: `3350+`  ( *Last Updated: 01 January, 2024* ) <br>
 **Full Statistics**:
 
 | OJ Names         | No. of problems Solved  | Username         |
 |:----------------:|:-----------------------:|:----------------:|
-|`Codeforces`|1726|[Sajjat004](https://codeforces.com/profile/Sajjat004)|
-|`LeetCode`|341|[Sajjat004](https://leetcode.com/Sajjat004/)|
-|`Codechef`|459|[sajjat004](https://www.codechef.com/users/sajjat004)|
+|`Codeforces`|1796|[Sajjat004](https://codeforces.com/profile/Sajjat004)|
+|`LeetCode`|369|[Sajjat004](https://leetcode.com/Sajjat004/)|
+|`Codechef`|285|[sajjat004](https://www.codechef.com/users/sajjat004)|
 |`AtCoder`|225|[Sajjat004](https://atcoder.jp/users/Sajjat004)|
 |`Toph`|150|[Sajjat004](https://toph.co/u/Sajjat004)|
 |`CSES`|125|[Sajjat004](https://cses.fi/user/62271)|
