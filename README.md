@@ -6,8 +6,8 @@
 | OJ Names         | No. of problems Solved  | Username         |
 |:----------------:|:-----------------------:|:----------------:|
 |`Codeforces`|1800|[Sajjat004](https://codeforces.com/profile/Sajjat004)|
-|`LeetCode`|375|[Sajjat004](https://leetcode.com/Sajjat004/)|
-|`Codechef`|285|[sajjat004](https://www.codechef.com/users/sajjat004)|
+|`LeetCode`|380|[Sajjat004](https://leetcode.com/Sajjat004/)|
+|`Codechef`|300|[sajjat004](https://www.codechef.com/users/sajjat004)|
 |`AtCoder`|225|[Sajjat004](https://atcoder.jp/users/Sajjat004)|
 |`Toph`|150|[Sajjat004](https://toph.co/u/Sajjat004)|
 |`CSES`|125|[Sajjat004](https://cses.fi/user/62271)|
